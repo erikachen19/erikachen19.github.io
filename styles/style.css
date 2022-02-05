@@ -1,0 +1,8 @@
+p {
+  color: blue;/*p段落变蓝色 */
+  width: 500px;
+  border: 1px solid black;/*p黑细的框 */
+};
+a {
+	a:hover;
+}
